@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 创建Dialect
+parent: Tutorial
 nav_order: 1
 ---
 
