@@ -4,5 +4,5 @@ theme: just-the-docs
 
 url: https://ShiCCQU.GitHub.io/docs
 
-aux_links:
-  Template Repository: https://github.com/ShiCCQU/docs
+# aux_links:
+#   Template Repository: https://github.com/ShiCCQU/docs
