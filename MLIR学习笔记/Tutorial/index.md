@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tutorial
+title: Tutorial教程
 nav_order: 2
 has_children: true
 ---

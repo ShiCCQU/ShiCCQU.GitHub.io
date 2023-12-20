@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Doc Translation
+title: 文档翻译&阅读笔记
 nav_order: 3
 has_children: true
 ---
