@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Chapter 2"
+nav_order: 2
+parent: Toy Tutorial
+grand_parent: Tutorial教程
+---
+
 ## Chapter 2：发射（emitting）基本MLIR
 
 ### 介绍：多层中间表达
